@@ -1,0 +1,10 @@
+{
+    "FPS": 60,
+    "WIN_SCORE": 10,
+    "SIDE_SWAP_ROUND": 7,
+    "BOMB_TIMER_MS": 10000,
+    "FREEZE_TIME_MS": 3000,
+    "ROUND_END_WAIT_MS": 3000,
+    "PLANT_TIME_MS": 3000,
+    "DEFUSE_TIME_MS": 4000
+}
